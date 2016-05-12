@@ -879,12 +879,12 @@ class chain():
     # 20 為鏈條兩圓距
     # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
     # degree = math.asin(20/2/radius)*180/math.pi
-    x = 50
-    y = 0
+    #x = 50
+    #y = 0
     degree = 20
     first_degree = 20.78
-    startx = -233.06+100
-    starty = 49.48
+    startx = -233.06+100+x
+    starty = 49.48+y
     repeat = 360 / degree
     # 先畫出左邊第一關鍵節
     outstring = '''
@@ -905,8 +905,8 @@ x1, y1 = mychain.basic_rot('''+str(startx)+","+str(starty)+", "+str(first_degree
     # 接著處理右邊的非虛擬鍊條
     # 先畫出右邊第一關鍵節
  
-    p = -17.89+100
-    k = 93.98
+    p = -17.89+100+x
+    k = 93.98+y
     degree = 12
     first_degree = 4.78
     repeat = 360 / degree
