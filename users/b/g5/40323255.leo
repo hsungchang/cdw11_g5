@@ -21,51 +21,44 @@
 <v t="amd.20160501220029.2"><vh>@button local pelican</vh></v>
 </v>
 <v t="amd.20160501215942.1" a="E"><vh>@path content/b/g5</vh>
-<v t="amd.20160501215720.1"><vh>@edit 40323253.md</vh></v>
+<v t="amd.20160501215720.1"><vh>@edit 40323255.md</vh></v>
 </v>
 </v>
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
-<v t="leo.20160512142003.1" a="E"><vh>@clean bg5_40323253_1.py</vh>
-<v t="leo.20160512142214.1"><vh>bg5_40323253_1 declarations</vh></v>
-<v t="leo.20160512142214.2"><vh>a</vh></v>
-<v t="leo.20160512142214.3"><vh>b</vh></v>
-<v t="leo.20160512142214.4"><vh>c</vh></v>
-<v t="leo.20160512142214.5"><vh>d</vh></v>
-<v t="leo.20160512142214.6"><vh>circle</vh></v>
-<v t="leo.20160512142214.7"><vh>circle1</vh></v>
-<v t="leo.20160512142214.8"><vh>circle2</vh></v>
-<v t="leo.20160512142214.9"><vh>twocircle</vh></v>
-<v t="leo.20160512142214.10"><vh>eighteenthirty</vh></v>
-<v t="leo.20160512142214.11"><vh>draw_a</vh></v>
-<v t="leo.20160512142214.12"><vh>draw_b</vh></v>
-<v t="leo.20160512142214.13"><vh>draw_c</vh></v>
-<v t="leo.20160512142214.14"><vh>draw_d</vh></v>
-<v t="leo.20160512142214.15"><vh>draw_ab</vh></v>
-<v t="leo.20160512142214.16"><vh>draw_ac</vh></v>
-<v t="leo.20160512142214.17"><vh>draw_bc</vh></v>
-<v t="leo.20160512142214.18"><vh>draw_abc</vh></v>
-<v t="leo.20160512142214.19"><vh>draw_aaaa</vh></v>
-<v t="leo.20160512142214.20"><vh>draw_badc</vh></v>
-<v t="leo.20160512142214.21"><vh>draw_abcd</vh></v>
-<v t="leo.20160512142214.22"><vh>drawcircle</vh></v>
-<v t="leo.20160512142214.23"><vh>drawcircle1</vh></v>
-<v t="leo.20160512142214.24"><vh>drawcircle2</vh></v>
-<v t="leo.20160512142214.25"><vh>drawtwocircle</vh></v>
-<v t="leo.20160512142214.26"><vh>draweithteenthirdy</vh></v>
-<v t="leo.20160512142214.27"><vh>snap</vh></v>
-<v t="leo.20160512142214.28"><vh>snap_link</vh></v>
-<v t="leo.20160512142214.29"><vh>snap_gear</vh></v>
+<v t="leo.20160519113832.1" a="E"><vh>@clean bg5_40323255.py</vh>
+<v t="leo.20160519114102.1"><vh>bg5_40323255 declarations</vh></v>
+<v t="leo.20160519114102.2"><vh>a</vh></v>
+<v t="leo.20160519114102.3"><vh>b</vh></v>
+<v t="leo.20160519114102.4"><vh>c</vh></v>
+<v t="leo.20160519114102.5"><vh>d</vh></v>
+<v t="leo.20160519114102.6"><vh>circle</vh></v>
+<v t="leo.20160519114102.7"><vh>circle1</vh></v>
+<v t="leo.20160519114102.8"><vh>circle2</vh></v>
+<v t="leo.20160519114102.9"><vh>twocircle</vh></v>
+<v t="leo.20160519114102.10"><vh>eighteenthirty</vh></v>
+<v t="leo.20160519114102.11"><vh>draw_a</vh></v>
+<v t="leo.20160519114102.12"><vh>draw_b</vh></v>
+<v t="leo.20160519114102.13"><vh>draw_c</vh></v>
+<v t="leo.20160519114102.14"><vh>draw_d</vh></v>
+<v t="leo.20160519114102.15"><vh>draw_ab</vh></v>
+<v t="leo.20160519114102.16"><vh>draw_ac</vh></v>
+<v t="leo.20160519114102.17"><vh>draw_bc</vh></v>
+<v t="leo.20160519114102.18"><vh>draw_abc</vh></v>
+<v t="leo.20160519114102.19"><vh>draw_aaaa</vh></v>
+<v t="leo.20160519114102.20"><vh>draw_badc</vh></v>
+<v t="leo.20160519114102.21"><vh>draw_abcd</vh></v>
+<v t="leo.20160519114102.22"><vh>drawcircle</vh></v>
+<v t="leo.20160519114102.23"><vh>drawcircle1</vh></v>
+<v t="leo.20160519114102.24"><vh>drawcircle2</vh></v>
+<v t="leo.20160519114102.25"><vh>drawtwocircle</vh></v>
+<v t="leo.20160519114102.26"><vh>draweithteenthirdy</vh></v>
+<v t="leo.20160519114102.27"><vh>snap</vh></v>
+<v t="leo.20160519114102.28"><vh>snap_link</vh></v>
+<v t="leo.20160519114102.29"><vh>snap_gear</vh></v>
 </v>
-<v t="leo.20160505115812.1"><vh>@clean bg5_40323253.py</vh>
-<v t="leo.20160505115812.2"><vh>bg5_40323253 declarations</vh></v>
-<v t="leo.20160505115812.3"><vh>a</vh></v>
-<v t="leo.20160505115812.4"><vh>draw_a</vh></v>
-<v t="leo.20160505115812.5"><vh>circle36</vh></v>
-<v t="leo.20160505115812.6"><vh>drawcircle36</vh></v>
-</v>
-<v t="amd.20160501221015.1"><vh>@path ./../../../</vh>
+<v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
 <v t="amd.20160501221001.3"><vh>index</vh></v>
@@ -118,12 +111,13 @@ if __name__ == "__main__":
     app.run()
     
 
-app.register_blueprint(users.b.g5.b40323204_cdw11_1.bg5_40323204_1)
-#app.register_blueprint(users.b.g5.b40323204_cdw11_2.bg5_40323204_1)
+#app.register_blueprint(users.b.g5.b40323204_cdw11_1.bg5_40323204_1)
+app.register_blueprint(users.b.g5.b40323204_cdw11_2.bg5_40323204_1)
 app.register_blueprint(users.b.g5.b40323204_cdw11.bg5_40323204)
 app.register_blueprint(users.b.g5.bg5_40323253.bg5_40323253)
 app.register_blueprint(users.b.g5.bg5_40323253_1.bg5_40323253_1)
-
+app.register_blueprint(users.b.g5.bg5_40323217.bg5_40323217)
+app.register_blueprint(users.b.g5.bg5_40323255.bg5_40323255)
 
   
 
@@ -267,6 +261,8 @@ import users.b.g5.b40323204_cdw11_1
 import users.b.g5.b40323204_cdw11_2
 import users.b.g5.bg5_40323253
 import users.b.g5.bg5_40323253_1
+import users.b.g5.bg5_40323217
+import users.b.g5.bg5_40323255
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -528,211 +524,13 @@ def send_blog():
   return app.send_static_file('blog/index.html')
 
 </t>
-<t tx="leo.20160505115812.1">@language python
+<t tx="leo.20160519113832.1">@language python
 @tabwidth -4
 @others
 </t>
-<t tx="leo.20160505115812.2">from flask import Blueprint, request
+<t tx="leo.20160519114102.1">from flask import Blueprint, request
  
-bg5_40323253 = Blueprint('bg5_40323253', __name__, url_prefix='/bg5_40323253', template_folder='templates')
- 
-head_str = '''
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;meta charset="UTF-8"&gt;
-    &lt;title&gt;網際 2D 鏈條繪圖&lt;/title&gt;
-    &lt;!-- IE 9: display inline SVG --&gt;
-    &lt;meta http-equiv="X-UA-Compatible" content="IE=9"&gt;
-&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/Cango-8v03.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/Cango2D-6v13.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="http://cptocadp-2015fallhw.rhcloud.com/static/CangoAxes-1v33.js"&gt;&lt;/script&gt;
- 
-&lt;/head&gt;
-&lt;body&gt;
- 
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
- 
-&lt;canvas id="plotarea" width="800" height="800"&gt;&lt;/canvas&gt;
-'''
- 
-tail_str = '''
-&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-'''
- 
-chain_str = '''
-&lt;script type="text/python"&gt;
-from javascript import JSConstructor
-from browser import alert
-from browser import window
-import math
- 
-cango = JSConstructor(window.Cango)
-cobj = JSConstructor(window.Cobj)
-shapedefs = window.shapeDefs
-obj2d = JSConstructor(window.Obj2D)
-cgo = cango("plotarea")
- 
-cgo.setWorldCoords(-250, -250, 500, 500) 
- 
-# 畫軸線
-cgo.drawAxes(0, 240, 0, 240, {
-    "strokeColor":"#aaaaaa",
-    "fillColor": "#aaaaaa",
-    "xTickInterval": 20,
-    "xLabelInterval": 20,
-    "yTickInterval": 20,
-    "yLabelInterval": 20})
- 
-deg = math.pi/180  
- 
-# 將繪製鏈條輪廓的內容寫成 class 物件
-class chain():
-    # 輪廓的外型設為 class variable
-    chamber = "M -6.8397, -1.4894 \
-            A 7, 7, 0, 1, 0, 6.8397, -1.4894 \
-            A 40, 40, 0, 0, 1, 6.8397, -18.511 \
-            A 7, 7, 0, 1, 0, -6.8397, -18.511 \
-            A 40, 40, 0, 0, 1, -6.8397, -1.4894 z"
-    cgoChamber = window.svgToCgoSVG(chamber)
- 
-    def __init__(self, fillcolor="green", border=True, strokecolor= "tan", linewidth=2, scale=1):
-        self.fillcolor = fillcolor
-        self.border = border
-        self.strokecolor = strokecolor
-        self.linewidth = linewidth
-        self.scale = scale
- 
-    # 利用鏈條起點與終點定義繪圖
-    def basic(self, x1, y1, x2, y2):
-        self.x1 = x1
-        self.y1 = y1
-        self.x2 = x2
-        self.y2 = y2
-        # 注意, cgo.Chamber 為成員變數
-        cmbr = cobj(self.cgoChamber, "SHAPE", {
-                "fillColor": self.fillcolor,
-                "border": self.border,
-                "strokeColor": self.strokecolor,
-                "lineWidth": self.linewidth })
- 
-        # hole 為原點位置
-        hole = cobj(shapedefs.circle(4*self.scale), "PATH")
-        cmbr.appendPath(hole)
- 
-        # 複製 cmbr, 然後命名為 basic1
-        basic1 = cmbr.dup()
-        # 因為鏈條的角度由原點向下垂直, 所以必須轉 90 度, 再考量 atan2 的轉角
-        basic1.rotate(math.atan2(y2-y1, x2-x1)/deg+90)
- 
-        # 放大 scale 倍
-        cgo.render(basic1, x1, y1, self.scale, 0)
- 
-    # 利用鏈條起點與旋轉角度定義繪圖, 使用內定的 color, border 與 linewidth 變數
-    def basic_rot(self, x1, y1, rot, v=False):
-        # 若 v 為 True 則為虛擬 chain, 不 render
-        self.x1 = x1
-        self.y1 = y1
-        self.rot = rot
-        self.v = v
-        # 注意, cgo.Chamber 為成員變數
-        cmbr = cobj(self.cgoChamber, "SHAPE", {
-                "fillColor": self.fillcolor,
-                "border": self.border,
-                "strokeColor": self.strokecolor,
-                "lineWidth": self.linewidth })
- 
-        # hole 為原點位置
-        hole = cobj(shapedefs.circle(4*self.scale), "PATH")
-        cmbr.appendPath(hole)
-        # 根據旋轉角度, 計算 x2 與 y2
-        x2 = x1 + 20*math.cos(rot*deg)*self.scale
-        y2 = y1 + 20*math.sin(rot*deg)*self.scale
- 
-        # 複製 cmbr, 然後命名為 basic1
-        basic1 = cmbr.dup()
-        # 因為鏈條的角度由原點向下垂直, 所以必須轉 90 度, 再考量 atan2 的轉角
-        basic1.rotate(rot+90)
- 
-        # 放大 scale 倍
-        if v == False:
-            cgo.render(basic1, x1, y1, self.scale, 0)
- 
-        return x2, y2
-'''
-
-</t>
-<t tx="leo.20160505115812.3"># 傳繪 A 函式內容
-def a(x, y, scale=1, color="green"):
-    outstring = '''
-# 利用 chain class 建立案例, 對應到 mychain 變數
-mychain = chain(scale='''+str(scale)+''', fillcolor="'''+str(color)+'''")
- 
-# 畫 A
-# 左邊兩個垂直單元
-x1, y1 = mychain.basic_rot('''+str(x)+","+str(y)+''', 90)
-x2, y2 = mychain.basic_rot(x1, y1, 90)
-# 左斜邊兩個單元
-x3, y3 = mychain.basic_rot(x2, y2, 80)
-x4, y4 = mychain.basic_rot(x3, y3, 71)
-# 最上方水平單元
-x5, y5 = mychain.basic_rot(x4, y4, 0)
-# 右斜邊兩個單元
-x6, y6 = mychain.basic_rot(x5, y5, -71)
-x7, y7 = mychain.basic_rot(x6, y6, -80)
-# 右邊兩個垂直單元
-x8, y8 = mychain.basic_rot(x7, y7, -90)
-x9, y9 = mychain.basic_rot(x8, y8, -90)
-# 中間兩個水平單元
-x10, y10 = mychain.basic_rot(x8, y8, -180)
-mychain.basic(x10, y10, x1, y1)
-'''
- 
-    return outstring
-    
-</t>
-<t tx="leo.20160505115812.4">@bg5_40323253.route('/a')
-def draw_a():
-    return head_str + chain_str + a(0, 0) + tail_str
-
-</t>
-<t tx="leo.20160505115812.5">def circle36(x, y, degree=10):
-    # 20 為鏈條輪廓之圓距
-    # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
-    # degree = math.asin(20/2/radius)*180/math.pi
-    #degree = 10
-    first_degree = 90 - degree
-    repeat = 360 / degree
-    outstring = '''
-mychain = chain()
- 
-x1, y1 = mychain.basic_rot('''+str(x)+","+str(y)+", "+str(first_degree)+''')
-'''
-    for i in range(2, int(repeat)+1):
-        outstring += "x"+str(i)+", y"+str(i)+"=mychain.basic_rot(x"+str(i-1)+", y"+str(i-1)+", 90-"+str(i*degree)+") \n"
-    return outstring
-    
-</t>
-<t tx="leo.20160505115812.6">@bg5_40323253.route('/circle36/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
-@bg5_40323253.route('/circle36/&lt;x&gt;/&lt;degree&gt;', defaults={'y': 0})
-@bg5_40323253.route('/circle36/&lt;x&gt;/&lt;y&gt;/&lt;degree&gt;')
-#@ag100.route('/circle36/&lt;int:x&gt;/&lt;int:y&gt;/&lt;int:degree&gt;')
-def drawcircle36(x,y,degree):
-    return head_str + chain_str + circle36(int(x), int(y), int(degree)) + tail_str</t>
-<t tx="leo.20160512142003.1">@language python
-@tabwidth -4
-@others
-</t>
-<t tx="leo.20160512142214.1">from flask import Blueprint, request
- 
-bg5_40323253_1 = Blueprint('bg5_40323253_1', __name__, url_prefix='/bg5_40323253_1', template_folder='templates')
+bg5_40323255 = Blueprint('bg5_40323255', __name__, url_prefix='/bg5_40323255', template_folder='templates')
  
 head_str = '''
 &lt;!DOCTYPE html&gt;
@@ -868,7 +666,7 @@ class chain():
 '''
  
 </t>
-<t tx="leo.20160512142214.10">def eighteenthirty(x, y):
+<t tx="leo.20160519114102.10">def eighteenthirty(x, y):
     '''
 從圖解法與符號式解法得到的兩條外切線座標點
 (-203.592946177111, 0.0), (0.0, 0.0), (-214.364148466539, 56.5714145924675), (-17.8936874260919, 93.9794075692901)
@@ -882,9 +680,9 @@ class chain():
     x = 50
     y = 0
     degree = 20
-    first_degree = 20.78 + 90
-    startx = -233.06+259.5
-    starty = 49.48-173.5
+    first_degree = 20.78
+    startx = -233.06+100
+    starty = 49.48
     repeat = 360 / degree
     # 先畫出左邊第一關鍵節
     outstring = '''
@@ -905,10 +703,10 @@ x1, y1 = mychain.basic_rot('''+str(startx)+","+str(starty)+", "+str(first_degree
     # 接著處理右邊的非虛擬鍊條
     # 先畫出右邊第一關鍵節
  
-    p = -17.89
+    p = -17.89+100
     k = 93.98
     degree = 12
-    first_degree = 4.78 + 90
+    first_degree = 4.78
     repeat = 360 / degree
     # 第1節不是 virtual chain
     outstring += '''
@@ -926,7 +724,7 @@ p1, k1 = mychain.basic_rot('''+str(p)+","+str(k)+", "+str(first_degree)+''')
  
     # 上段連接直線
     # 從 x1, y1 作為起點
-    first_degree = 10.78 + 90
+    first_degree = 10.78
     repeat = 10
     outstring += '''
 m1, n1 = mychain.basic_rot(x1, y1, '''+str(first_degree)+''')
@@ -936,7 +734,7 @@ m1, n1 = mychain.basic_rot(x1, y1, '''+str(first_degree)+''')
  
     # 下段連接直線
     # 從 x11, y11 作為起點
-    first_degree = -10.78 + 90
+    first_degree = -10.78
     repeat = 10
     outstring += '''
 r1, s1 = mychain.basic_rot(x11, y11, '''+str(first_degree)+''')
@@ -948,58 +746,58 @@ r1, s1 = mychain.basic_rot(x11, y11, '''+str(first_degree)+''')
  
  
 </t>
-<t tx="leo.20160512142214.11">@bg5_40323253_1.route('/a')
+<t tx="leo.20160519114102.11">@bg5_40323255.route('/a')
 def draw_a():
     return head_str + chain_str + a(0, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.12">@bg5_40323253_1.route('/b')
+<t tx="leo.20160519114102.12">@bg5_40323255.route('/b')
 def draw_b():
    # 每個橫向字元距離為 65 pixels, 上下字距則為 110 pixels
     return head_str + chain_str + b(0+65, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.13">@bg5_40323253_1.route('/c')
+<t tx="leo.20160519114102.13">@bg5_40323255.route('/c')
 def draw_c():
     # 每個橫向字元距離為 65 pixels
     return head_str + chain_str + c(0+65*2, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.14">@bg5_40323253_1.route('/d')
+<t tx="leo.20160519114102.14">@bg5_40323255.route('/d')
 def draw_d():
     return head_str + chain_str + d(0+65*3, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.15">@bg5_40323253_1.route('/ab')
+<t tx="leo.20160519114102.15">@bg5_40323255.route('/ab')
 def draw_ab():
     #return head_str + chain_str + a(0, 0) + b(0+65, 0) + tail_str
     return head_str + chain_str + a(0, 0) + b(0, 0-110) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.16">@bg5_40323253_1.route('/ac')
+<t tx="leo.20160519114102.16">@bg5_40323255.route('/ac')
 def draw_ac():
     return head_str + chain_str + a(0, 0) + c(0+65, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.17">@bg5_40323253_1.route('/bc')
+<t tx="leo.20160519114102.17">@bg5_40323255.route('/bc')
 def draw_bc():
     return head_str + chain_str + b(0, 0) + c(0+65, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.18">@bg5_40323253_1.route('/abc')
+<t tx="leo.20160519114102.18">@bg5_40323255.route('/abc')
 def draw_abc():
     return head_str + chain_str + a(0, 0) + b(0+65, 0) + c(0+65*2, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.19">@bg5_40323253_1.route('/aaaa')
+<t tx="leo.20160519114102.19">@bg5_40323255.route('/aaaa')
 def draw_aaaa():
     outstring = head_str + chain_str
     scale = 2
@@ -1011,7 +809,7 @@ def draw_aaaa():
  
  
 </t>
-<t tx="leo.20160512142214.2"># 傳繪 A 函式內容
+<t tx="leo.20160519114102.2"># 傳繪 A 函式內容
 def a(x, y, scale=1, color="green"):
     outstring = '''
 # 利用 chain class 建立案例, 對應到 mychain 變數
@@ -1041,58 +839,58 @@ mychain.basic(x10, y10, x1, y1)
  
  
 </t>
-<t tx="leo.20160512142214.20">@bg5_40323253_1.route('/badc')
+<t tx="leo.20160519114102.20">@bg5_40323255.route('/badc')
 def draw_badc():
     return head_str + chain_str + b(0, 0) + a(0+65, 0) + d(0+65*2, 0) + c(0+65*3, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.21">@bg5_40323253_1.route('/abcd')
+<t tx="leo.20160519114102.21">@bg5_40323255.route('/abcd')
 def draw_abcd():
     #return head_str + chain_str + a(0, 0) + b(0+65, 0) + c(0+65*2, 0) + d(0+65*3, 0) + tail_str
     return head_str + chain_str + a(0, 110) + b(0, 110-110) + c(0, 110-110*2) + d(0, 110-110*3) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.22">@bg5_40323253_1.route('/circle')
+<t tx="leo.20160519114102.22">@bg5_40323255.route('/circle')
 def drawcircle():
     return head_str + chain_str + circle(0, 0) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.23">@bg5_40323253_1.route('/circle1/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
-@bg5_40323253_1.route('/circle1/&lt;x&gt;/&lt;degree&gt;', defaults={'y': 0})
-@bg5_40323253_1.route('/circle1/&lt;x&gt;/&lt;y&gt;/&lt;degree&gt;')
-#@bg5_40323253_1.route('/circle1/&lt;int:x&gt;/&lt;int:y&gt;/&lt;int:degree&gt;')
+<t tx="leo.20160519114102.23">@bg5_40323255.route('/circle1/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
+@bg5_40323255.route('/circle1/&lt;x&gt;/&lt;degree&gt;', defaults={'y': 0})
+@bg5_40323255.route('/circle1/&lt;x&gt;/&lt;y&gt;/&lt;degree&gt;')
+#@bg5_40323255.route('/circle1/&lt;int:x&gt;/&lt;int:y&gt;/&lt;int:degree&gt;')
 def drawcircle1(x,y,degree):
     return head_str + chain_str + circle1(int(x), int(y), int(degree)) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.24">@bg5_40323253_1.route('/circle2/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
-@bg5_40323253_1.route('/circle2/&lt;x&gt;/&lt;degree&gt;', defaults={'y': 0})
-@bg5_40323253_1.route('/circle2/&lt;x&gt;/&lt;y&gt;/&lt;degree&gt;')
-#@bg5_40323253_1.route('/circle2/&lt;int:x&gt;/&lt;int:y&gt;/&lt;int:degree&gt;')
+<t tx="leo.20160519114102.24">@bg5_40323255.route('/circle2/&lt;degree&gt;', defaults={'x': 0, 'y': 0})
+@bg5_40323255.route('/circle2/&lt;x&gt;/&lt;degree&gt;', defaults={'y': 0})
+@bg5_40323255.route('/circle2/&lt;x&gt;/&lt;y&gt;/&lt;degree&gt;')
+#@bg5_40323255.route('/circle2/&lt;int:x&gt;/&lt;int:y&gt;/&lt;int:degree&gt;')
 def drawcircle2(x,y,degree):
     return head_str + chain_str + circle2(int(x), int(y), int(degree)) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.25">@bg5_40323253_1.route('/twocircle/&lt;x&gt;/&lt;y&gt;')
-@bg5_40323253_1.route('/twocircle', defaults={'x':0, 'y':0})
+<t tx="leo.20160519114102.25">@bg5_40323255.route('/twocircle/&lt;x&gt;/&lt;y&gt;')
+@bg5_40323255.route('/twocircle', defaults={'x':0, 'y':0})
 def drawtwocircle(x,y):
     return head_str + chain_str + twocircle(int(x), int(y)) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.26">@bg5_40323253_1.route('/eighteenthirty/&lt;x&gt;/&lt;y&gt;')
-@bg5_40323253_1.route('/eighteenthirty', defaults={'x':0, 'y':0})
+<t tx="leo.20160519114102.26">@bg5_40323255.route('/eighteenthirty/&lt;x&gt;/&lt;y&gt;')
+@bg5_40323255.route('/eighteenthirty', defaults={'x':0, 'y':0})
 def draweithteenthirdy(x,y):
     return head_str + chain_str + eighteenthirty(int(x), int(y)) + tail_str
  
  
 </t>
-<t tx="leo.20160512142214.27">@bg5_40323253_1.route('/snap')
+<t tx="leo.20160519114102.27">@bg5_40323255.route('/snap')
 # http://svg.dabbles.info/snaptut-base
 def snap():
     outstring = '''
@@ -1172,7 +970,7 @@ document['tux'].bind('mouseleave', hoverout)
  
  
 </t>
-<t tx="leo.20160512142214.28">@bg5_40323253_1.route('/snap_link')
+<t tx="leo.20160519114102.28">@bg5_40323255.route('/snap_link')
 # http://svg.dabbles.info/
 def snap_link():
     outstring = '''
@@ -1255,7 +1053,7 @@ g4.animate( { 'transform' : 'r360,25,25' },4000)
  
  
 </t>
-<t tx="leo.20160512142214.29">@bg5_40323253_1.route('/snap_gear')
+<t tx="leo.20160519114102.29">@bg5_40323255.route('/snap_gear')
 def snap_gear():
     outstring = '''
 &lt;!DOCTYPE html&gt;
@@ -1294,7 +1092,7 @@ s.line(0, 0, 100, 100).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth'
 &lt;/html&gt;
 '''
     return outstring</t>
-<t tx="leo.20160512142214.3"># 傳繪 B 函式內容
+<t tx="leo.20160519114102.3"># 傳繪 B 函式內容
 def b(x, y):
     outstring = '''
 # 利用 chain class 建立案例, 對應到 mychain 變數
@@ -1331,7 +1129,7 @@ mychain.basic(x12,y12, '''+str(x)+","+str(y)+''')
     return outstring
  
 </t>
-<t tx="leo.20160512142214.4"># 傳繪 C 函式內容
+<t tx="leo.20160519114102.4"># 傳繪 C 函式內容
 def c(x, y):
     outstring = '''
 # 利用 chain class 建立案例, 對應到 mychain 變數
@@ -1360,7 +1158,7 @@ x7, y7 = mychain.basic_rot(x6, y6, -0)
  
  
 </t>
-<t tx="leo.20160512142214.5"># 傳繪 D 函式內容
+<t tx="leo.20160519114102.5"># 傳繪 D 函式內容
 def d(x, y):
     outstring = '''
 # 利用 chain class 建立案例, 對應到 mychain 變數
@@ -1391,7 +1189,7 @@ mychain.basic(x10, y10, '''+str(x)+","+str(y)+''')
     return outstring
  
 </t>
-<t tx="leo.20160512142214.6">def circle(x, y):
+<t tx="leo.20160519114102.6">def circle(x, y):
     outstring = '''
 mychain = chain()
  
@@ -1402,7 +1200,7 @@ x1, y1 = mychain.basic_rot('''+str(x)+","+str(y)+''', 50)
     return outstring
  
 </t>
-<t tx="leo.20160512142214.7">def circle1(x, y, degree=10):
+<t tx="leo.20160519114102.7">def circle1(x, y, degree=10):
     # 20 為鏈條兩圓距
     # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
     # degree = math.asin(20/2/radius)*180/math.pi
@@ -1420,7 +1218,7 @@ x1, y1 = mychain.basic_rot('''+str(x)+","+str(y)+", "+str(first_degree)+''')
  
  
 </t>
-<t tx="leo.20160512142214.8">def circle2(x, y, degree=10):
+<t tx="leo.20160519114102.8">def circle2(x, y, degree=10):
     # 20 為鏈條兩圓距
     # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
     # degree = math.asin(20/2/radius)*180/math.pi
@@ -1439,7 +1237,7 @@ x1, y1 = mychain.basic_rot('''+str(x)+","+str(y)+", "+str(first_degree)+''')
  
  
 </t>
-<t tx="leo.20160512142214.9">def twocircle(x, y):
+<t tx="leo.20160519114102.9">def twocircle(x, y):
     # 20 為鏈條兩圓距
     # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
     # degree = math.asin(20/2/radius)*180/math.pi
