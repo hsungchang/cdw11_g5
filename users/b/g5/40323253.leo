@@ -58,14 +58,14 @@
 <v t="leo.20160512142214.28"><vh>snap_link</vh></v>
 <v t="leo.20160512142214.29"><vh>snap_gear</vh></v>
 </v>
-<v t="leo.20160505115812.1" a="E"><vh>@clean bg5_40323253.py</vh>
+<v t="leo.20160505115812.1"><vh>@clean bg5_40323253.py</vh>
 <v t="leo.20160505115812.2"><vh>bg5_40323253 declarations</vh></v>
 <v t="leo.20160505115812.3"><vh>a</vh></v>
 <v t="leo.20160505115812.4"><vh>draw_a</vh></v>
 <v t="leo.20160505115812.5"><vh>circle36</vh></v>
 <v t="leo.20160505115812.6"><vh>drawcircle36</vh></v>
 </v>
-<v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
+<v t="amd.20160501221015.1"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
 <v t="amd.20160501221001.3"><vh>index</vh></v>
@@ -879,12 +879,12 @@ class chain():
     # 20 為鏈條兩圓距
     # chain 所圍之圓圈半徑為 20/2/math.asin(degree*math.pi/180/2)
     # degree = math.asin(20/2/radius)*180/math.pi
-    #x = 50
-    #y = 0
+    x = 50
+    y = 0
     degree = 20
-    first_degree = 20.78
-    startx = -233.06+100+x
-    starty = 49.48+y
+    first_degree = 20.78 + 90
+    startx = -233.06+259.5
+    starty = 49.48-173.5
     repeat = 360 / degree
     # 先畫出左邊第一關鍵節
     outstring = '''
@@ -905,10 +905,10 @@ x1, y1 = mychain.basic_rot('''+str(startx)+","+str(starty)+", "+str(first_degree
     # 接著處理右邊的非虛擬鍊條
     # 先畫出右邊第一關鍵節
  
-    p = -17.89+100+x
-    k = 93.98+y
+    p = -17.89
+    k = 93.98
     degree = 12
-    first_degree = 4.78
+    first_degree = 4.78 + 90
     repeat = 360 / degree
     # 第1節不是 virtual chain
     outstring += '''
@@ -926,7 +926,7 @@ p1, k1 = mychain.basic_rot('''+str(p)+","+str(k)+", "+str(first_degree)+''')
  
     # 上段連接直線
     # 從 x1, y1 作為起點
-    first_degree = 10.78
+    first_degree = 10.78 + 90
     repeat = 10
     outstring += '''
 m1, n1 = mychain.basic_rot(x1, y1, '''+str(first_degree)+''')
@@ -936,7 +936,7 @@ m1, n1 = mychain.basic_rot(x1, y1, '''+str(first_degree)+''')
  
     # 下段連接直線
     # 從 x11, y11 作為起點
-    first_degree = -10.78
+    first_degree = -10.78 + 90
     repeat = 10
     outstring += '''
 r1, s1 = mychain.basic_rot(x11, y11, '''+str(first_degree)+''')
