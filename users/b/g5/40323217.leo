@@ -896,7 +896,7 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 <t tx="leo.20160519153142.1">from flask import Blueprint, request
  
 bg5_40323217_1 = Blueprint('bg5_40323217_1', __name__, url_prefix='/bg5_40323217_1', template_folder='templates')
- 
+
 head_str = '''
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
