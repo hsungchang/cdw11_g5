@@ -379,7 +379,7 @@ r1, s1 = mychain.basic_rot(p13, k13, '''+str(first_degree)+''')
     outstring += "mychain.basic(x22, y22, r11, s11)\n"
  
     return outstring
-def eighteenthirty(x, y):
+def eighteenthirty1(x, y):
     '''
 從圖解法與符號式解法得到的兩條外切線座標點
 (-203.592946177111, 0.0), (0.0, 0.0), (-214.364148466539, 56.5714145924675), (-17.8936874260919, 93.9794075692901)
@@ -393,9 +393,9 @@ def eighteenthirty(x, y):
     x = 50
     y = 0
     degree = 20
-    first_degree = 20.78
-    startx = -233.06+100
-    starty = 49.48
+    first_degree = 20.78+90
+    startx = -233.06+174.5
+    starty = 49.48-175
     repeat = 360 / degree
     # 先畫出左邊第一關鍵節
     outstring = '''
@@ -416,10 +416,10 @@ x1, y1 = mychain.basic_rot('''+str(startx)+","+str(starty)+", "+str(first_degree
     # 接著處理右邊的非虛擬鍊條
     # 先畫出右邊第一關鍵節
  
-    p = -17.89+100
+    p = -17.89-84
     k = 93.98
     degree = 12
-    first_degree = 4.78
+    first_degree = 4.78+90
     repeat = 360 / degree
     # 第1節不是 virtual chain
     outstring += '''
@@ -437,7 +437,7 @@ p1, k1 = mychain.basic_rot('''+str(p)+","+str(k)+", "+str(first_degree)+''')
  
     # 上段連接直線
     # 從 x1, y1 作為起點
-    first_degree = 10.78
+    first_degree = 10.78+90
     repeat = 10
     outstring += '''
 m1, n1 = mychain.basic_rot(x1, y1, '''+str(first_degree)+''')
@@ -447,7 +447,7 @@ m1, n1 = mychain.basic_rot(x1, y1, '''+str(first_degree)+''')
  
     # 下段連接直線
     # 從 x11, y11 作為起點
-    first_degree = -10.78
+    first_degree = -10.78+90
     repeat = 10
     outstring += '''
 r1, s1 = mychain.basic_rot(x11, y11, '''+str(first_degree)+''')
@@ -550,10 +550,10 @@ def drawtwocircle(x,y):
     return head_str + chain_str + twocircle(int(x), int(y)) + tail_str
  
  
-@bg5_40323204_1.route('/eighteenthirty/<x>/<y>')
-@bg5_40323204_1.route('/eighteenthirty', defaults={'x':0, 'y':0})
-def draweithteenthirdy(x,y):
-    return head_str + chain_str + eighteenthirty(int(x), int(y)) + tail_str
+@bg5_40323204_1.route('/eighteenthirty1/<x>/<y>')
+@bg5_40323204_1.route('/eighteenthirty1', defaults={'x':0, 'y':0})
+def draweithteenthirdy1(x,y):
+    return head_str + chain_str + eighteenthirty1(int(x), int(y)) + tail_str
  
  
 @bg5_40323204_1.route('/snap')
