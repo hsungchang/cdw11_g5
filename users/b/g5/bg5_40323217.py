@@ -1,7 +1,7 @@
 from flask import Blueprint, request
  
 bg5_40323217 = Blueprint('bg5_40323217', __name__, url_prefix='/bg5_40323217', template_folder='templates')
- 
+
 head_str = '''
 <!DOCTYPE html>
 <html>

@@ -506,7 +506,7 @@ def send_blog():
 <t tx="leo.20160519110236.1">from flask import Blueprint, request
  
 bg5_40323217 = Blueprint('bg5_40323217', __name__, url_prefix='/bg5_40323217', template_folder='templates')
- 
+
 head_str = '''
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
