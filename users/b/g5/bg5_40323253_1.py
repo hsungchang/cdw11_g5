@@ -393,8 +393,8 @@ def eighteenthirty(x, y):
     y = 0
     degree = 20
     first_degree = 20.78 + 90
-    startx = -233.06+259.5
-    starty = 49.48-173.5
+    startx = -33
+    starty = -150
     repeat = 360 / degree
     # 先畫出左邊第一關鍵節
     outstring = '''
@@ -415,10 +415,10 @@ x1, y1 = mychain.basic_rot('''+str(startx)+","+str(starty)+", "+str(first_degree
     # 接著處理右邊的非虛擬鍊條
     # 先畫出右邊第一關鍵節
  
-    p = -17.89
-    k = 93.98
+    p = -75
+    k = 70
     degree = 12
-    first_degree = 4.78 + 90
+    first_degree = 4.78 + 92
     repeat = 360 / degree
     # 第1節不是 virtual chain
     outstring += '''
@@ -436,7 +436,7 @@ p1, k1 = mychain.basic_rot('''+str(p)+","+str(k)+", "+str(first_degree)+''')
  
     # 上段連接直線
     # 從 x1, y1 作為起點
-    first_degree = 10.78 + 90
+    first_degree = 10.78 + 89
     repeat = 10
     outstring += '''
 m1, n1 = mychain.basic_rot(x1, y1, '''+str(first_degree)+''')

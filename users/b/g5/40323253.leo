@@ -118,12 +118,16 @@ if __name__ == "__main__":
     app.run()
     
 
-app.register_blueprint(users.b.g5.b40323204_cdw11_1.bg5_40323204_1)
-#app.register_blueprint(users.b.g5.b40323204_cdw11_2.bg5_40323204_1)
+#app.register_blueprint(users.b.g5.b40323204_cdw11_1.bg5_40323204_1)
+app.register_blueprint(users.b.g5.b40323204_cdw11_2.bg5_40323204_1)
 app.register_blueprint(users.b.g5.b40323204_cdw11.bg5_40323204)
+app.register_blueprint(users.b.g5.b40323206_cdw11_1.bg5_40323206_1)
+app.register_blueprint(users.b.g5.b40323206_cdw11_2.bg5_40323206_2)
 app.register_blueprint(users.b.g5.bg5_40323253.bg5_40323253)
 app.register_blueprint(users.b.g5.bg5_40323253_1.bg5_40323253_1)
-
+app.register_blueprint(users.b.g5.bg5_40323217.bg5_40323217)
+app.register_blueprint(users.b.g5.bg5_40323255.bg5_40323255)
+app.register_blueprint(users.b.g5.bg5_40323217_1.bg5_40323217_1)
 
   
 
@@ -265,8 +269,13 @@ import init
 import users.b.g5.b40323204_cdw11
 import users.b.g5.b40323204_cdw11_1
 import users.b.g5.b40323204_cdw11_2
+import users.b.g5.b40323206_cdw11_1
+import users.b.g5.b40323206_cdw11_2
 import users.b.g5.bg5_40323253
 import users.b.g5.bg5_40323253_1
+import users.b.g5.bg5_40323217
+import users.b.g5.bg5_40323217_1
+import users.b.g5.bg5_40323255
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
@@ -883,8 +892,8 @@ class chain():
     y = 0
     degree = 20
     first_degree = 20.78 + 90
-    startx = -233.06+259.5
-    starty = 49.48-173.5
+    startx = -33
+    starty = -150
     repeat = 360 / degree
     # 先畫出左邊第一關鍵節
     outstring = '''
@@ -905,10 +914,10 @@ x1, y1 = mychain.basic_rot('''+str(startx)+","+str(starty)+", "+str(first_degree
     # 接著處理右邊的非虛擬鍊條
     # 先畫出右邊第一關鍵節
  
-    p = -17.89
-    k = 93.98
+    p = -75
+    k = 70
     degree = 12
-    first_degree = 4.78 + 90
+    first_degree = 4.78 + 92
     repeat = 360 / degree
     # 第1節不是 virtual chain
     outstring += '''
@@ -926,7 +935,7 @@ p1, k1 = mychain.basic_rot('''+str(p)+","+str(k)+", "+str(first_degree)+''')
  
     # 上段連接直線
     # 從 x1, y1 作為起點
-    first_degree = 10.78 + 90
+    first_degree = 10.78 + 89
     repeat = 10
     outstring += '''
 m1, n1 = mychain.basic_rot(x1, y1, '''+str(first_degree)+''')

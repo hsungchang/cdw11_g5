@@ -10,6 +10,8 @@ import init
 import users.b.g5.b40323204_cdw11
 import users.b.g5.b40323204_cdw11_1
 import users.b.g5.b40323204_cdw11_2
+import users.b.g5.b40323206_cdw11_1
+import users.b.g5.b40323206_cdw11_2
 import users.b.g5.bg5_40323253
 import users.b.g5.bg5_40323253_1
 import users.b.g5.bg5_40323217
@@ -391,6 +393,8 @@ if __name__ == "__main__":
 #app.register_blueprint(users.b.g5.b40323204_cdw11_1.bg5_40323204_1)
 app.register_blueprint(users.b.g5.b40323204_cdw11_2.bg5_40323204_1)
 app.register_blueprint(users.b.g5.b40323204_cdw11.bg5_40323204)
+app.register_blueprint(users.b.g5.b40323206_cdw11_1.bg5_40323206_1)
+app.register_blueprint(users.b.g5.b40323206_cdw11_2.bg5_40323206_2)
 app.register_blueprint(users.b.g5.bg5_40323253.bg5_40323253)
 app.register_blueprint(users.b.g5.bg5_40323253_1.bg5_40323253_1)
 app.register_blueprint(users.b.g5.bg5_40323217.bg5_40323217)
