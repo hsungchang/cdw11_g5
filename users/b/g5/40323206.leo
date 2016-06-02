@@ -769,6 +769,14 @@ brython(1);
  
 tail_str = '''
 &lt;/script&gt;
+
+&lt;script type='text/javascript'&gt;
+var onWebChat={ar:[], set: function(a,b){if (typeof onWebChat_==='undefined'){this.ar.
+push([a,b]);}else{onWebChat_.set(a,b);}},get:function(a){return(onWebChat_.get(a));},w
+:(function(){ var ga=document.createElement('script'); ga.type = 'text/javascript';ga.
+async=1;ga.src='//www.onwebchat.com/clientchat/a673f1d0626708e44e1c7eeb2cb392c3/1/1';
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})()}
+&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 '''
