@@ -21,14 +21,14 @@
 <v t="amd.20160501220029.2"><vh>@button local pelican</vh></v>
 </v>
 <v t="amd.20160501215942.1" a="E"><vh>@path content/b/g5</vh>
-<v t="amd.20160501215720.1"><vh>@edit 40323253.md</vh></v>
+<v t="amd.20160501215720.1" a="M"><vh>@edit 40323253.md</vh></v>
 </v>
 </v>
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
 <v t="leo.20160602100541.1"><vh>@edit bg5_40323253_2.py</vh></v>
-<v t="leo.20160512142003.1" a="E"><vh>@clean bg5_40323253_1.py</vh>
+<v t="leo.20160512142003.1"><vh>@clean bg5_40323253_1.py</vh>
 <v t="leo.20160512142214.1"><vh>bg5_40323253_1 declarations</vh></v>
 <v t="leo.20160512142214.2"><vh>a</vh></v>
 <v t="leo.20160512142214.3"><vh>b</vh></v>
@@ -59,14 +59,14 @@
 <v t="leo.20160512142214.28"><vh>snap_link</vh></v>
 <v t="leo.20160512142214.29"><vh>snap_gear</vh></v>
 </v>
-<v t="leo.20160505115812.1" a="E"><vh>@clean bg5_40323253.py</vh>
+<v t="leo.20160505115812.1"><vh>@clean bg5_40323253.py</vh>
 <v t="leo.20160505115812.2"><vh>bg5_40323253 declarations</vh></v>
 <v t="leo.20160505115812.3"><vh>a</vh></v>
 <v t="leo.20160505115812.4"><vh>draw_a</vh></v>
 <v t="leo.20160505115812.5"><vh>circle36</vh></v>
 <v t="leo.20160505115812.6"><vh>drawcircle36</vh></v>
 </v>
-<v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
+<v t="amd.20160501221015.1"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
 <v t="amd.20160501221001.3"><vh>index</vh></v>
@@ -119,7 +119,7 @@ if __name__ == "__main__":
     app.run()
     
 
-#app.register_blueprint(users.b.g5.b40323204_cdw11_1.bg5_40323204_1)
+app.register_blueprint(users.b.g5.b40323204_cdw11_1.bg5_40323204_1)
 app.register_blueprint(users.b.g5.b40323204_cdw11_2.bg5_40323204_2)
 app.register_blueprint(users.b.g5.b40323204_cdw11.bg5_40323204)
 app.register_blueprint(users.b.g5.b40323206_cdw11_1.bg5_40323206_1)
