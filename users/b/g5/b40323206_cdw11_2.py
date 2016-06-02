@@ -751,6 +751,16 @@ s = snap("#svgout")
 # 畫直線
 s.line(0, 0, 100, 100).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth': "1"  }).attr({ 'id': 'line1' })
 </script>
+
+<script type='text/javascript'>
+var onWebChat={ar:[], set: function(a,b){if (typeof onWebChat_==='undefined'){this.ar.
+push([a,b]);}else{onWebChat_.set(a,b);}},get:function(a){return(onWebChat_.get(a));},w
+:(function(){ var ga=document.createElement('script'); ga.type = 'text/javascript';ga.
+async=1;ga.src='//www.onwebchat.com/clientchat/a673f1d0626708e44e1c7eeb2cb392c3/1/1';
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})()}
+</script>
+
+
 </body>
 </html>
 '''
