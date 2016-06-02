@@ -1,77 +1,3 @@
-Title: 40323204 cdw11 期末心得報告
-Category: bg5
-Tags: 40323204, cdw11
-Author: 40323204
-啟動 cdw11 協同專案
-
-<!-- PELICAN_END_SUMMARY -->
-
-pelican 網誌位置: <a href="http://cdw11-ag100.rhcloud.com/static/blog/40323204-cdw11-bao-gao.html">http://cdw11-ag100.rhcloud.com/static/blog/40323204-cdw11-bao-gao.html </a>
-
-<h2>心得及自評:</h2>
-
-自評成績85分
-在這幾週的課程中學了很多，如何建立openshift或是利用程式繪製圖形，雖然對於組員間的協同繪製英文字母還是不懂，
-
-<h2>Leo Editor 基本的使用:</h2>
-1.開啟 Leo Editor 後, 使用者可以新增一個 .leo 檔案, 並在其中加入節點，以及在節點的內文中輸入資料。
-
-2.當節點名稱為@edit _____.md時，即為網誌檔，其內文可打資料，傳會後會顯示在網頁上。
-
-3.當節點名稱為@edit ____.py時，即為python檔，若想讓.py檔裡的程式分節，就將 edit 改為 auto，在檔名的位置點滑鼠右鍵選擇Refresh from disk就會自動分節，再將 auto改為 clean就完成。
-
-4.@path content/b/g5即為檔案存取到 content下的 b下的 g5 。
-
-5.程式中bg5_40323204_2 = Blueprint('bg5_40323204_2', __name__, url_prefix='/bg5_40323204_2', template_folder='templates') 此行為定義藍圖名稱
-
-6.若要在近端實行就輸入 python wsgi.py當跑出三行有*字號的文字即為成功，若沒有成功可看@clean myflaskapp.py或myflaskapp declarations 中是否有定義到自己的檔案或藍圖，也有可能是別人的定義錯誤，可在錯誤的定義前面加一個#字號暫時蓋掉，完成後再輸入一次python wsgi.py即可。.
-
-7.當近端跑成功後可在網頁網址中輸入 localhost:5000/檔案位置/藍圖名稱/繪圖所定義的名稱。
-
---------------------------
-
-<h2>2D英文字母繪製:</h2>
-
-<h4>AAAA: </h4>
-<a href="http://cdw11g5-40323204sandy.rhcloud.com/bg5_40323204/task04_1">http://cdw11g5-40323204sandy.rhcloud.com/bg5_40323204/task04_1 </a>
-
-<img src="http://imgur.com/abphced.png" width="80%" />
-
-<h4>BACD: </h4>
-<a href="http://cdw11g5-40323204sandy.rhcloud.com/bg5_40323204/task04_2">http://cdw11g5-40323204sandy.rhcloud.com/bg5_40323204/task04_2 </a>
-
-<img src="http://imgur.com/LGYF8nu.png" width="80%" />
-
-<h4>ABCD: </h4>
-<a href="http://cdw11g5-40323204sandy.rhcloud.com/bg5_40323204/task04_3">http://cdw11g5-40323204sandy.rhcloud.com/bg5_40323204/task04_3 </a>
-
-<img src="http://imgur.com/gKEyPYB.png"  height="50%" />
-
-----------------------------
-
-<h2>自行車傳動 2D 鏈條繪圖:</h2>
-
-<h4>計算鍊條點的位置: </h4>
-
-利用solvespace繪圖計算鍊條點的位置在帶入程式中
-
-<img src="http://imgur.com/cH1mZSh.png" width="80%" />
-
-欲將鍊條改為垂直，將first_degree都加上90，X與Y的部分做算並填上即可。
-
-<h4>垂直鍊條: </h4><a href="http://cdw11g5-40323204sandy.rhcloud.com/bg5_40323204_1/eighteenthirty1">http://cdw11g5-40323204sandy.rhcloud.com/bg5_40323204_1/eighteenthirty1</a>
-
-<img src="http://imgur.com/PXEe47O.png" height="40%" />
-
-----------------------------
-
-<h2>2D 正齒輪傳動囓合繪圖:</h2>
-
-<img src="http://imgur.com/VlLmMBX.png" width="60%" />
-
-<h4>齒輪嚙合程式: </h4>
-
-<pre class="brush: python">
 <script type="text/javascript" src="http://brython.info/src/brython_dist.js"></script>
 <script type="text/javascript" src="http://2015fallhw.github.io/cptocadp/static/Cango-8v03.js"></script>
 <script type="text/javascript" src="http://2015fallhw.github.io/cptocadp/static/Cango2D-7v01-min.js"></script>
@@ -204,7 +130,4 @@ spur(cx+pr1+pr2, cy, m, n2, pa, 180-180/n2)
 # 而當第2齒從與第3齒囓合的定位線, 逆時鐘旋轉 180-180/n2 角度後, 原先囓合的第3齒必須要再配合旋轉 (180-180/n2 )*n2/n3
 spur(cx+pr1+pr2+pr2+pr3, cy, m, n3, pa, 180-180/n3+(180-180/n2)*n2/n3)
 spur(cx+pr1+pr2+pr2+pr3+pr3+pr4, cy, m, n4, pa, 180-180/n4)
-</script></pre>
-
-----------------------------
-
+</script>

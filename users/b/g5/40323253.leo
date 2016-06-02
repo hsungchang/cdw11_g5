@@ -27,6 +27,7 @@
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
+<v t="leo.20160602100541.1"><vh>@edit bg5_40323253_2.py</vh></v>
 <v t="leo.20160512142003.1" a="E"><vh>@clean bg5_40323253_1.py</vh>
 <v t="leo.20160512142214.1"><vh>bg5_40323253_1 declarations</vh></v>
 <v t="leo.20160512142214.2"><vh>a</vh></v>
@@ -58,14 +59,14 @@
 <v t="leo.20160512142214.28"><vh>snap_link</vh></v>
 <v t="leo.20160512142214.29"><vh>snap_gear</vh></v>
 </v>
-<v t="leo.20160505115812.1"><vh>@clean bg5_40323253.py</vh>
+<v t="leo.20160505115812.1" a="E"><vh>@clean bg5_40323253.py</vh>
 <v t="leo.20160505115812.2"><vh>bg5_40323253 declarations</vh></v>
 <v t="leo.20160505115812.3"><vh>a</vh></v>
 <v t="leo.20160505115812.4"><vh>draw_a</vh></v>
 <v t="leo.20160505115812.5"><vh>circle36</vh></v>
 <v t="leo.20160505115812.6"><vh>drawcircle36</vh></v>
 </v>
-<v t="amd.20160501221015.1"><vh>@path ./../../../</vh>
+<v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
 <v t="amd.20160501221001.3"><vh>index</vh></v>
@@ -119,12 +120,13 @@ if __name__ == "__main__":
     
 
 #app.register_blueprint(users.b.g5.b40323204_cdw11_1.bg5_40323204_1)
-app.register_blueprint(users.b.g5.b40323204_cdw11_2.bg5_40323204_1)
+app.register_blueprint(users.b.g5.b40323204_cdw11_2.bg5_40323204_2)
 app.register_blueprint(users.b.g5.b40323204_cdw11.bg5_40323204)
 app.register_blueprint(users.b.g5.b40323206_cdw11_1.bg5_40323206_1)
 app.register_blueprint(users.b.g5.b40323206_cdw11_2.bg5_40323206_2)
 app.register_blueprint(users.b.g5.bg5_40323253.bg5_40323253)
 app.register_blueprint(users.b.g5.bg5_40323253_1.bg5_40323253_1)
+app.register_blueprint(users.b.g5.bg5_40323253_2.bg5_40323253_2)
 app.register_blueprint(users.b.g5.bg5_40323217.bg5_40323217)
 app.register_blueprint(users.b.g5.bg5_40323255.bg5_40323255)
 app.register_blueprint(users.b.g5.bg5_40323217_1.bg5_40323217_1)
@@ -273,9 +275,11 @@ import users.b.g5.b40323206_cdw11_1
 import users.b.g5.b40323206_cdw11_2
 import users.b.g5.bg5_40323253
 import users.b.g5.bg5_40323253_1
+import users.b.g5.bg5_40323253_2
 import users.b.g5.bg5_40323217
 import users.b.g5.bg5_40323217_1
 import users.b.g5.bg5_40323255
+
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
