@@ -10,24 +10,24 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20160501215436.2"><vh>pelican 部份</vh>
-<v t="amd.20160501215558.1"><vh>@path ./../../../</vh>
+<v t="amd.20160501215436.2" a="E"><vh>pelican 部份</vh>
+<v t="amd.20160501215558.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501223113.1"><vh>@edit README.md</vh></v>
-<v t="amd.20160501215634.1"><vh>@path static</vh>
+<v t="amd.20160501215634.1" a="E"><vh>@path static</vh>
 <v t="amd.20160501220009.1"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
 <v t="amd.20160501220009.2"><vh>@button gh-pages pelican</vh></v>
 </v>
 <v t="amd.20160501220029.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="amd.20160501220029.2"><vh>@button local pelican</vh></v>
 </v>
-<v t="amd.20160501215942.1"><vh>@path content/b/g5</vh>
+<v t="amd.20160501215942.1" a="E"><vh>@path content/b/g5</vh>
 <v t="amd.20160501215720.1"><vh>@edit 40323255.md</vh></v>
 </v>
 </v>
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
-<v t="leo.20160519113832.1" a="E"><vh>@clean bg5_40323255.py</vh>
+<v t="leo.20160519113832.1"><vh>@clean bg5_40323255.py</vh>
 <v t="leo.20160519114102.1"><vh>bg5_40323255 declarations</vh></v>
 <v t="leo.20160519114102.2"><vh>a</vh></v>
 <v t="leo.20160519114102.3"><vh>b</vh></v>
