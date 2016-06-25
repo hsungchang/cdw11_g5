@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/" rel="alternate"></link><link href="http://cdw11-ag100.rhcloud.com/static/blog/feeds/bg5.atom.xml" rel="self"></link><id>http://cdw11-ag100.rhcloud.com/static/blog/</id><updated>2016-06-23T15:33:54+08:00</updated><entry><title>40323255 期末報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323255-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-23T15:33:54+08:00</updated><author><name>40323255</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-23:static/blog/40323255-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CDW11 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/bg5.atom.xml" rel="self"></link><id>./</id><updated>2016-06-23T22:04:45+08:00</updated><entry><title>40323255 期末報告</title><link href="./40323255-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-23T22:04:45+08:00</updated><author><name>40323255</name></author><id>tag:,2016-06-23:./40323255-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;pelican 網誌位置: &lt;a href="http://cdw11-ag100.rhcloud.com/static/"&gt;http://cdw11-ag100.rhcloud.com/static/&lt;/a&gt;&lt;/p&gt;
@@ -37,7 +37,7 @@
 &lt;p&gt;&lt;h4&gt;7.心得報告&lt;/h4&gt;
 &lt;h4&gt;從cdw11之後，我們開始著重在鍊條及齒輪的繪製，比期中前學到的東西更多更難；畫鍊條、齒輪的過程，一開始並不是那麼的順利，因為總是沒辦法到達想要的座標及角度，後面透過solvespace的分析，可以更快速的繪製圖檔，甚至是3D圖。&lt;/h4&gt;
 &lt;h4&gt;而且這次大家都是協同者，所以很容易會有發生錯誤的時候，在做的時候讓大家更小心翼翼，可是後面我們組長選擇在外面先創立一個bg5的倉儲，這樣可以降低大家發生錯誤的時候，也讓我更能放心去做。&lt;/h4&gt;&lt;/p&gt;
-&lt;h2&gt;自評分數：72分&lt;/h2&gt;</summary><category term="40323255"></category><category term="cdw11"></category></entry><entry><title>40323253 期末報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323253-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-23T15:33:54+08:00</updated><author><name>40323253</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-23:static/blog/40323253-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;h2&gt;自評分數：72分&lt;/h2&gt;</summary><category term="40323255"></category><category term="cdw11"></category></entry><entry><title>40323253 期末報告</title><link href="./40323253-qi-mo-bao-gao.html" rel="alternate"></link><updated>2016-06-23T22:04:45+08:00</updated><author><name>40323253</name></author><id>tag:,2016-06-23:./40323253-qi-mo-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;pelican 網誌位置:&lt;a href="http://cdw11-ag100.rhcloud.com/static/"&gt;http://cdw11-ag100.rhcloud.com/static/ &lt;/a&gt;&lt;/p&gt;
@@ -141,7 +141,7 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;h2&gt;9.期末心得報告。&lt;/h2&gt;
 &lt;h3&gt;期中報告以後，我們開始往齒輪鍊條的方向前進，抓取老師給的程式進行編輯，我們必須考慮齒輪及鍊條的干涉和衝突，可利用solvespace畫圖計算數值，甚至以數學的方式取得精準的點位。編輯LEO方面，和期中類似，但是cdw11後的Github老師要求全班加為協同者，直接在Master進行協同，這樣我們的編輯將變得困難，我們必須排除同學們的各種衝突才能順利完成任務，若遠端被搞亂了我們也無法在遠端進行檢測，於是我們這組另外創了屬於我們g5組別的Github倉儲進行測試，此方法大大減低出錯的機率，且使任務進行的更加流暢。&lt;/h3&gt;
-&lt;h2&gt;自評 : 83分&lt;/h2&gt;&lt;/p&gt;</summary><category term="40323253"></category><category term="cdw11"></category></entry><entry><title>40323251 cdw11 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323251-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-23T15:33:54+08:00</updated><author><name>40323251</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-23:static/blog/40323251-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;h2&gt;自評 : 83分&lt;/h2&gt;&lt;/p&gt;</summary><category term="40323253"></category><category term="cdw11"></category></entry><entry><title>40323251 cdw11 報告</title><link href="./40323251-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-23T22:04:45+08:00</updated><author><name>40323251</name></author><id>tag:,2016-06-23:./40323251-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 
 
 &lt;h3&gt;自評成績:65分&lt;/h3&gt;
@@ -190,10 +190,10 @@
 &lt;p&gt;&lt;img src="./../files/bg5/40323251_7.png"&gt;&lt;/p&gt;
 &lt;h3&gt;最後出現於自己的倉儲中，並且已經為fork過的狀態 : &lt;/h3&gt;
 
-&lt;p&gt;&lt;img src="./../files/bg5/40323251_8.png"&gt;&lt;/p&gt;</summary><category term="40323251"></category><category term="cdw11"></category></entry><entry><title>40323217_1 cdw11 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323217_1-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-23T15:33:54+08:00</updated><author><name>40323217_1</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-23:static/blog/40323217_1-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw15 協同專案&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../files/bg5/40323251_8.png"&gt;&lt;/p&gt;</summary><category term="40323251"></category><category term="cdw11"></category></entry><entry><title>40323217_1 cdw11 報告</title><link href="./40323217_1-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-23T22:04:45+08:00</updated><author><name>40323217_1</name></author><id>tag:,2016-06-23:./40323217_1-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw15 協同專案&lt;/p&gt;
 
 
-&lt;p&gt;齒輪&lt;/p&gt;</summary><category term="40323217_1"></category><category term="cdw11"></category></entry><entry><title>40323217 cdw11 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323217-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-23T15:33:54+08:00</updated><author><name>40323217</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-23:static/blog/40323217-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;p&gt;齒輪&lt;/p&gt;</summary><category term="40323217_1"></category><category term="cdw11"></category></entry><entry><title>40323217 cdw11 報告</title><link href="./40323217-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-23T22:04:45+08:00</updated><author><name>40323217</name></author><id>tag:,2016-06-23:./40323217-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;cdw11 和 cdw18協同專案(包含心得和上課內容)&lt;/p&gt;
 
 
 &lt;p&gt;&lt;h2&gt;自評分數為:83分&lt;/h2&gt;&lt;br&gt;
@@ -203,14 +203,23 @@
 新增畫布總共有分為7個步驟，必須一步一步的確認之後(wsgi.py)再推上去遠端的班級網站上，要不然會導致班上的共同倉儲爆掉，請確認以下步驟都可以後再上傳，如果有衝突請先解決&lt;br&gt;
 &lt;br&gt;
 圖片一:新增畫布
+&lt;br&gt;
 &lt;img src="http://i.imgur.com/vnsoxzK.png"&gt;&lt;br&gt;
+&lt;br&gt;
 圖片二:將畫布導入(import)
+&lt;br&gt;
 &lt;img src="http://i.imgur.com/O17Ymge.png"&gt;&lt;br&gt;
+&lt;br&gt;
 圖片三:至DOS介面上啟動wsgi.py確定沒有錯誤(有錯誤的話請除錯)
+&lt;br&gt;
 &lt;img src="http://i.imgur.com/3azrcju.png"&gt;&lt;br&gt;
+&lt;br&gt;
 圖片四:至近端啟動localhost查看圖形
+&lt;br&gt;
 &lt;img src="http://i.imgur.com/XqAhCUN.png"&gt;&lt;br&gt;
+&lt;br&gt;
 圖片五:將近端localhost移至遠端Openshift
+&lt;br&gt;
 &lt;img src="http://i.imgur.com/TekSJkZ.png"&gt;&lt;br&gt;
 &lt;br&gt;
 a圖形顯示&lt;br&gt;
@@ -232,11 +241,16 @@ circle36圖形顯示&lt;br&gt;
 &lt;h2&gt;鍊條組合&lt;/h2&gt;&lt;br&gt;
 完成圖如下&lt;br&gt;
 &lt;img src="http://i.imgur.com/EyX3Wie.png"&gt;&lt;br&gt;
-組合心得&lt;br&gt;
+ &lt;h2&gt;組合心得&lt;/h2&gt;&lt;br&gt;
 當在組合鍊條2D的時候必須要使用三角函數去計算壓力角以及齒輪每個齒的角度去做調整所以必須用到solvespace先劃出鍊條之後去做到標尺寸再把需要的數值輸入的leo這邊.&lt;br&gt;
 &lt;br&gt;
  &lt;h2&gt;學期心得&lt;/h2&gt;&lt;br&gt;
-剛開始設定畫布的時候遇到很多問題譬如說有衝突再遇到有衝突時後都必須從DOS上看到我哪一行有問題之後再重新wsgi.py但是我也到遇到我沒注意到就直接推回去自己組的倉儲導致組員的倉儲爆掉，讓我相當自責所以我在這之後我每次在推送之前我都會檢查python wsgi.py是否有衝突之後再推我的東西上去 .&lt;/p&gt;</summary><category term="40323217"></category><category term="cdw11"></category></entry><entry><title>40323206 cdw11 報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323206-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-23T15:33:54+08:00</updated><author><name>40323206</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-23:static/blog/40323206-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;br /&gt;
+剛開始設定畫布的時候遇到很多問題譬如說有衝突再遇到有衝突時後都必須從DOS上看到我哪一行有問題之後再重新wsgi.py但是我也到遇到我沒注意到就直接推回去自己組的倉儲導致組員的倉儲爆掉，讓我相當自責所以我在這之後我每次在推送之前我都會檢查python wsgi.py是否有衝突之後再推我的東西上去 .&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;h2&gt;第18週自評成績:75分&lt;/h2&gt;&lt;br&gt;
+整組組立圖片&lt;br&gt;
+&lt;img src="http://i.imgur.com/tDU9SXn.png"&gt;&lt;br&gt;
+第18週期末心得:我們在經歷過2D齒輪、2D鍊條、3D Onshape齒輪組合在這過程當中遇到許多問題，起初是畫布上沒有設定清楚且沒有啟動Wsgi.py去檢查有沒有衝突就推回去所以導致倉儲爆掉，所以在這當中讓我學習到必須要將畫布當中的設定設定好才可以推回去，2D 鍊條遇到的問題就是在組立時候沒有很均勻，原因是因為使用Solvespaces去計算角度時候有算錯所以導致此問題，3D Onshape齒輪是遇到干涉問題，所以必須使用前一個齒數你的齒數去把齒輪轉到沒有干涉的角度，最後謝謝老師教了我們兩年的協同產品的課程，讓我們在這當中學習到組員間的溝通，因為沒有溝通清楚而導致的問題實在非常的多，所以在進行協同產品裡重要的一環就是溝通，最後我在這裡謝謝老師跟我的組員。&lt;/p&gt;</summary><category term="40323217"></category><category term="cdw11"></category></entry><entry><title>40323206 cdw11 報告</title><link href="./40323206-cdw11-bao-gao.html" rel="alternate"></link><updated>2016-06-23T22:04:45+08:00</updated><author><name>40323206</name></author><id>tag:,2016-06-23:./40323206-cdw11-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;br /&gt;
 鍊條&amp;amp;齒輪
 &lt;/p&gt;
 &lt;h4&gt;
@@ -461,7 +475,7 @@ Ex：spur(cx+pr1+pr2+pr2+pr3+pr3+pr4, cy, m, n4, pa, (180-180/n4)+(180-180/n3)&l
 6/16更新
 &lt;/br&gt;
 今天用Onshape畫了齒輪的模擬，還是沒有感覺到協同性，可是有學到東西，是非常有收穫的一天。首先，因為我對齒輪沒有太多的了解，連最基本的除了上課有提到的，我都不知道，起初我很不願意做這項任務，因為這完全是我的罩門，可是因為用導入的方式，讓我可以不用從頭開始〈畫齒輪〉，所以容易了不少。再來就是設定齒輪的齒數和模數而已，其中每個齒輪的模數要一樣，才能互相配合，對我而言最困難的在於計算起始角度，實際上我都是參考已經有成功做出來的人的計算方式，原理還要研究......
-&lt;/h4&gt;&lt;/p&gt;</summary><category term="40323206"></category><category term="cdw11"></category></entry><entry><title>40323204 cdw11 期末心得報告</title><link href="http://cdw11-ag100.rhcloud.com/static/blog/40323204-cdw11-qi-mo-xin-de-bao-gao.html" rel="alternate"></link><updated>2016-06-23T15:33:54+08:00</updated><author><name>40323204</name></author><id>tag:cdw11-ag100.rhcloud.com,2016-06-23:static/blog/40323204-cdw11-qi-mo-xin-de-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
+&lt;/h4&gt;&lt;/p&gt;</summary><category term="40323206"></category><category term="cdw11"></category></entry><entry><title>40323204 cdw11 期末心得報告</title><link href="./40323204-cdw11-qi-mo-xin-de-bao-gao.html" rel="alternate"></link><updated>2016-06-23T22:04:45+08:00</updated><author><name>40323204</name></author><id>tag:,2016-06-23:./40323204-cdw11-qi-mo-xin-de-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 cdw11 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;pelican 網誌位置: &lt;a href="http://cdw11-ag100.rhcloud.com/static/blog/40323204-cdw11-bao-gao.html"&gt;http://cdw11-ag100.rhcloud.com/static/blog/40323204-cdw11-bao-gao.html &lt;/a&gt;&lt;/p&gt;
